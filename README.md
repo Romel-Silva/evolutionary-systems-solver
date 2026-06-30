@@ -8,7 +8,7 @@ This repository contains the GNU Octave source code accompanying the paper:
 
 The repository provides the implementations used in the numerical experiments reported in the paper. The codes illustrate how the proposed objective function ($F_{ob}$) combines deterministic linear-system techniques with a genetic algorithm to solve systems containing linear and nonlinear equations.
 
-The examples include the test problems presented in the manuscript, such as combustion, neurophysiology, and arithmetic systems.
+The examples include test problems presented in the manuscript, such as combustion, neurophysiology, and arithmetic systems.
 
 ## Repository Structure
 
