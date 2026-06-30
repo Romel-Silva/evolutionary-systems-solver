@@ -26,7 +26,7 @@ The repository contains the source code used to generate the numerical results r
 
 - [GNU Octave](https://octave.org/)
 - `statistics` package (for the Wilcoxon rank-sum test).
-- `ga` package (Octave-Forge), only for the comparison scripts.
+- `ga` package (Octave-Forge), only in some scripts.
 
 ## Running the Code
 
